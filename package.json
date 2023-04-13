@@ -1,7 +1,7 @@
 {
   "name": "projeto-playlist",
   "version": "1.0.0",
-  "description": "",
+  "description": "ed",
   "main": "index.js",
   "scripts": {
     "start": "node index",
